@@ -29,9 +29,9 @@ A series of technical drawing exercises and assignments:
 
 **Assignment 3:** Complete interior electrical installation shown on the architectural floor plan of a single-story residence, featuring symbols for lighting, power outlets, appliance connections, and low-voltage systems. Also included is the single-line diagram of the main electrical distribution board.
 
-![](images/floorplan.png)
+![Floorplan](images/floorplan.png)
 
-![](images/panel.png)
+![Panel](images/panel.png)
 
 *(Note: Each folder contains the respective `.dwg` files and `.pdf` exports of the models/layouts).*
 
